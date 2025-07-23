@@ -22,3 +22,13 @@ cin>>bit_to_be_set;
  int reset= a&~(1<<bit_to_be_reset);
  cout<<"The reset bit= "<<reset<<endl;
 }
+
+//output
+/*
+Input the Bit position u want to set: 4
+The set bit= 28
+Input the Bit position u want to reset: 2
+The reset bit= 8
+
+=== Code Execution Successful ===
+/*
