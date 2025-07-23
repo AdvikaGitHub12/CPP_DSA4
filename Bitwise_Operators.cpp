@@ -24,3 +24,15 @@ cout<<"bitwise NOT "<<bitwise_not_a<<endl;
 cout<<"bitwise LEFTSHIFT "<<bitwise_leftshift_<<endl;
 cout<<"bitwise RIGHTSHIFT "<<bitwise_rightshift_<<endl;
 }
+
+//output
+/*
+bitwise AND 4
+bitwise OR 5
+bitwise XOR 1
+bitwise NOT -5
+bitwise LEFTSHIFT 32
+bitwise RIGHTSHIFT 0
+
+=== Code Execution Successful ===
+/*
